@@ -1,0 +1,5 @@
+Tämä on ensimmäinen rivi,
+ja tämä toinen.
+Nyt tiedostossa on tarvittavat kolme riviä tekstiä.
+Hyvää työtä, Patrik, toivottavasti tehtävät onnistuvat!
+
