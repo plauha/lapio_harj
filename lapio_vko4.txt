@@ -4,3 +4,4 @@ Nyt tiedostossa on tarvittavat kolme riviä tekstiä.
 Hyvää työtä, Patrik, toivottavasti tehtävät onnistuvat!
 Lisätään nyt tiedostoon uusia rivejä.
 Homma toimii ja peitto heiluu.
+Tehdään vielä lisää muutoksia tiedostoon.
